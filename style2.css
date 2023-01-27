@@ -1,0 +1,10 @@
+.father{
+    border: 2px solid #ccc;
+    padding:15px;
+    border-radius: 10px;
+    margin-top: 6%;
+}
+#creat-acount-check{
+    text-align: center;
+    margin-top:7px;
+}
