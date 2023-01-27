@@ -1,0 +1,79 @@
+.father{
+    border: 2px solid #ccc;
+    border-radius:10px;
+    margin-top: 10%;
+}
+.view{
+    border-radius: 10px;
+    background-image: linear-gradient(45deg, #6a6868, transparent);
+    background-color: blueviolet;
+    text-align: center;
+    padding-top: 56px;
+    color:#fff;
+}
+.img{
+    width: 60%;
+    border-radius: 50%;
+    margin: 10px
+}
+#job{
+    font-size:1em;
+
+}
+.socialmedia{
+    margin-top:20px;
+    margin-bottom: 40px;
+}
+.myicons{
+    margin: 20px;
+}
+.coments{
+
+}
+.Header{
+    display: inline-block;
+    width: 100%;
+    padding:60px;
+}
+.about-me{
+    display:inline-block;
+    font-size: 1em;
+    color: rgb(175, 62, 62);
+}
+.download-btn{
+    /* height: 27px; */
+    width: 183px;
+    float: right;
+    border: 2px solid blueviolet;
+    background-color: blueviolet;
+    color: #fff;
+    border-radius: 20px;
+    padding: 5px;
+    transition: 0.3s;
+}
+.download-btn:hover{
+    background-color: #fff;
+    color:blueviolet;
+}
+.discription{
+    padding: 20px;
+}
+.info{
+    padding: 20px;
+}
+.info > h2 {
+    display: inline-block;
+    font-size: 1.1em;
+}
+.abilityFather{
+    padding: 0 10px;
+}
+.ability{
+    padding: 20px;
+}
+.ability > p{
+    display: inline-block;
+}
+.percent{
+    float:right;
+}
